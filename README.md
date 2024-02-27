@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome_Hyesun's_GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome Hyesun's GitHub&fontSize=60)
 ![hi-hi-there](https://github.com/nyedong/wassup2/assets/134279400/40de0e41-b90e-4907-8041-d8b7662e53f7)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyedong&show_icons=true&theme=rose)
 
