@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome&fontSize=90)
 
 ### 📖 What I learned 📖
 ![Static Badge](https://img.shields.io/badge/Data-blue?style=plastic)
@@ -39,7 +39,7 @@
 > - Notion Page : [Notion](https://www.notion.so/oreumi/e17fa1f6edc647fda260835ab0ae73c1?pvs=4, "Notion link")
 ***
 ### 🏆 Award 🏆
-> 2023.06.21
-> 캡스톤 설계 프로젝트
-> 최우수상
-> 내용 : 딥러닝 모델(LSTM, Transformer)을 활용한 기간에 따른 ETF 수익률 예측 비교
+캡스톤 설계 프로젝트
+> - 최우수상
+> - 일시 : 2023.06.21
+> - 내용 : 딥러닝 모델(LSTM, Transformer)을 활용한 기간에 따른 ETF 수익률 예측 비교
