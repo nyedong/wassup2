@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Welcome_Hyesun's_GitHub&fontSize=90)
+![Alt text](https://tenor.com/ko/view/hi-hi-there-gif-16107842475380108536 "hi")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyedong&show_icons=true&theme=rose)
 
 ### 📖 What I learned 📖
 ![Static Badge](https://img.shields.io/badge/Data-blue?style=plastic)
@@ -31,15 +33,15 @@
 ![Static Badge](https://img.shields.io/badge/Zira-gray?style=plastic&logo=Zira&logoColor=0052CC)
 ***
 ### 🙋‍♀️ Profile 
-> - Major : 1st - Economics / 2nd - Business&AI
-> - Where I live : Seoul, South Korea
-> - Favorie : 🎵 Music / 🎀 Pink / 🍓 Strawberry
-> - MBTI : isfj
-> - E-mail : <hyesun.shin03@gmail.com>
-> - Notion Page : [Notion](https://www.notion.so/oreumi/e17fa1f6edc647fda260835ab0ae73c1?pvs=4, "Notion link")
+> - **Major** : 1st - Economics / 2nd - Business&AI
+> - **Where I live** : Seoul, South Korea
+> - **Favorie** : 🎵 Music / 🎀 Pink / 🍓 Strawberry
+> - **MBTI** : isfj
+> - **E-mail** : <hyesun.shin03@gmail.com>
+> - **Notion Page** : [Notion](https://www.notion.so/oreumi/e17fa1f6edc647fda260835ab0ae73c1?pvs=4, "Notion link")
 ***
 ### 🏆 Award 🏆
-캡스톤 설계 프로젝트
+**캡스톤 설계 프로젝트**
 > - 최우수상
 > - 일시 : 2023.06.21
 > - 내용 : 딥러닝 모델(LSTM, Transformer)을 활용한 기간에 따른 ETF 수익률 예측 비교
